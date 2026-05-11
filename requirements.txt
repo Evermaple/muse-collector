@@ -1,0 +1,23 @@
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Database
+pymysql==1.1.0
+DBUtils==3.0.3
+
+# HTTP Client
+requests==2.31.0
+
+# Data Validation
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Configuration
+python-dotenv==1.0.0
+
+# Logging
+loguru==0.7.2
+
+# Utilities
+python-dateutil==2.8.2
